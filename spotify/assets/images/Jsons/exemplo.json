@@ -1,0 +1,10 @@
+{
+    "nome": "João",
+    "idade": 30,
+    "cidades": ["São Paulo", "Rio de Janeiro", "Belo Horizonte"],
+    "informacoes": {
+      "altura": 1.8,
+      "peso": 80
+    }
+  }
+  
